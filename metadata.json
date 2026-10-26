@@ -1,0 +1,6 @@
+{
+  "name": "Kadastrli uy",
+  "description": "O‘zbekiston hududidagi turar joylarning kadastr holatini xaritada ko‘rsatish, kadastr hujjati mavjud bo‘lmagan uylarni aniqlash va yagona tizimda boshqarish platformasi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
